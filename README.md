@@ -4,7 +4,7 @@ Hoje estou dando os passos para migrar para à área de TI.
 Estou estudando as bases do front-end.
 
 <div align="center">
-  <a href="https://github.com/lucasguillen">
+  <a href="https://github.com/guillenlucas33">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasGuillen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGuillen&layout=compact&langs_count=7&theme=dark"/>
 </div>
